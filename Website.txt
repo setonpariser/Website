@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {background-color: #00001F}
+h1 {font-family: garamond; font-size: 40px; font-weight: normal;}
+h2, h3	{font-family: garamond; font-size: 40px}
+p {font-family: garamond; font-size: 40px}
+</style>
+</head>
+<body>
+	<h1 style= "color: #00FF7F"> Tutoring on Capitol Hill </h1>
+	<p style="color: #00FF7F">this is going to be a lot of work but it will be worth it</p>
+	<h2 style= "color: white">WHITE</h2>
+	<ul> <li class=" "</li>
+		<li class=""></li>
+		<li class=""></li>
+		<li class=""></li>
+		<li class=""></li>
+		<li class=""></li>
+		<li class=""></li>
+		<li class=""><</ul>
+</body>
+</html>
+
